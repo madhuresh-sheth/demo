@@ -7,7 +7,7 @@
 "background_color": "#40E1DA",   
 "theme_color": "#40E1DA",
 "icons": [ {
-            "src": "demo/images/favicon.ico",
+            "src": "images/favicon.ico",
             "sizes": "24x24",
 			      "type": "image/ico"
         }]
