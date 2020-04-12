@@ -4,9 +4,10 @@
 "lang": "en-US",     
 "display": "fullscreen",  
 "background_color": "blue",   
+"start_url": "https://madhuresh-sheth.github.io/demo/",
 "theme_color": "blue",
 "icons": [ {
-            "src": "images/favicon.ico",
+            "src": "demo/images/favicon.ico",
             "sizes": "24x24"
         }]
 }
