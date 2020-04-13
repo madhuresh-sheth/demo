@@ -4,8 +4,8 @@
 "lang": "en-US",     
 "display": "standalone",   
 "start_url": "https://madhuresh-sheth.github.io/demo/",
-"background_color": "#40E1DA",   
-"theme_color": "#40E1DA",
+"background_color": "#1F87CA",   
+"theme_color": "#1F87CA",
 "icons": [ {
             "src": "images/logo.png",
             "sizes": "367x367",
